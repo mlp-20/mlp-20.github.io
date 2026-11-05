@@ -1,9 +1,9 @@
 # Site settings — replace the placeholders below
-title: Your Name
-author: Your Name
+title: Manuel Leite Pinho
+author: Manuel Leite Pinho
 description: >-
-  Role / headline (e.g. "Software Engineer & Data Scientist").
-  One or two sentences about what you build and what you care about.
+  Process Engineer in Frankfurt. Chemical engineer working across
+  process simulation, digital tools and research.
 url: "https://mlp-20.github.io"
 baseurl: ""
 lang: en-US
@@ -15,14 +15,15 @@ plugins:
   - jekyll-seo-tag
 
 # Sidebar
-logo: /assets/img/profile.jpg
+# Uncomment once assets/img/profile.jpg is added
+# logo: /assets/img/profile.jpg
 show_downloads: false
 
 # Social links (used by the sidebar in _layouts/default.html)
 social:
   github: mlp-20
-  linkedin: YOUR_LINKEDIN_HANDLE
-  email: you@example.com
+  linkedin: manuel-leite-pinho
+  email: leite.pinho.manuel@gmail.com
 
 # Navigation
 nav:
@@ -30,10 +31,6 @@ nav:
     url: /
   - title: Projects
     url: /projects.html
-  - title: Blog
-    url: /blog.html
-  - title: Books
-    url: /books.html
   - title: About
     url: /about.html
   - title: Contact

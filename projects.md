@@ -6,31 +6,52 @@ permalink: /projects.html
 
 # Projects
 
-## Project One
-<img class="project-thumb" src="{{ '/assets/img/project-placeholder.svg' | relative_url }}" alt="Project One">
+## Biodiesel washing column: modeling and control
 
-> **Stack:** … · **Result:** …
+> **Tools:** gPROMS ModelBuilder, MATLAB, Simulink
 
-**Problem:** what you set out to solve.
-**Approach:** how you solved it.
-**Outcome:** numbers, learnings.
-
-[Code](https://github.com/{{ site.social.github }}/project-one) · [Demo](#)
+**Problem:** biodiesel has to be washed to remove impurities, and the industrial packed column that does it is hard to model and control.
+**Approach:** a rigorous dynamic model of the column, then a control study on top of it. This was my master's thesis at Instituto Superior Técnico, continued as research work at CERENA.
+**Outcome:** two peer-reviewed publications (listed on the [About]({{ '/about.html' | relative_url }}) page).
 
 ---
 
-## Project Two
+## PFD generator tool
+> **Tools:** draw.io
 
-> **Stack:** … · **Result:** …
-
-Description.
-
-[Code](https://github.com/{{ site.social.github }}/project-two)
+A generator for process flow diagrams built around draw.io, together with internal training sessions that I lead.
 
 ---
 
-## Project Three
+## CO₂-to-methanol process simulation
+> **Tools:** Aspen Plus
 
-> **Stack:** … · **Result:** …
+Steady-state simulation of a CO₂-to-methanol process, built at Air Liquide.
 
-Description.
+---
+
+## Dynamic simulation
+> **Tools:** Aspen HYSYS Dynamics
+
+Dynamic models of industrial process units, developed at Air Liquide, together with simplified P&IDs for clients and suppliers.
+
+---
+
+## Root cause analysis from plant data
+> **Tools:** Python
+
+Dynamic plots generated from raw plant data to trace how an event developed and find its root cause.
+
+---
+
+## Ticket classification tool
+> **Tools:** Power BI, Excel
+
+An automated Power BI and Excel tool that internally assists the classification of support tickets, built while managing SAP S/4HANA projects at Galp.
+
+---
+
+## Process analysis and a drilling control room
+> **Tools:** SAP Signavio
+
+At Galp I mapped and analyzed processes end to end to find and remove inefficiencies, and managed the set-up of a drilling control room.

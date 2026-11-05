@@ -1,5 +1,6 @@
 ---
 layout: default
+published: false  # hidden for now; delete this line to bring the page back
 title: Blog
 permalink: /blog.html
 ---

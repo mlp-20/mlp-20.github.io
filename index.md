@@ -3,42 +3,43 @@ layout: default
 title: Home
 ---
 
-# Your Name — Your Role
+# Manuel Leite Pinho — Process Engineer
 
-*One-line tagline about what you do.*
+*Simulation, process design and digital tools for the chemical industry.*
 
-- **Highlight 1:** a measurable result (e.g. "cut pipeline runtime by 40%")
-- **Highlight 2:** another result
-- **Highlight 3:** another result
+- **Dynamic simulation** at Air Liquide with Aspen HYSYS Dynamics and Aspen Plus
+- **Digital delivery** at Galp: SAP S/4HANA and digitalization projects across Portugal, Spain and Cabo Verde
+- **Research** published in two peer-reviewed papers on biodiesel column modeling and control
 
 <div class="cta-block">
-  <a class="primary" href="{{ '/assets/cv.pdf' | relative_url }}">Download CV</a>
+  {% assign cv = site.static_files | where: "path", "/assets/cv.pdf" %}
+  {% if cv.size > 0 %}<a class="primary" href="{{ '/assets/cv.pdf' | relative_url }}">Download CV</a>{% endif %}
   <a href="mailto:{{ site.social.email }}">Get in touch</a>
 </div>
 
-A short intro paragraph: your background, what you work on now, and what you're looking for.
+I'm a chemical engineer with four years of experience across process engineering, digital transformation and research. I'm based in Frankfurt, where I build process simulations and the tools around them. Before that I spent two and a half years at Galp running technology projects and improving processes.
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### Project One
-<img class="project-thumb" src="{{ '/assets/img/project-placeholder.svg' | relative_url }}" alt="Project One">
+### Biodiesel washing column: modeling and control
 
-> **Stack:** Python, PyTorch, FastAPI · **Result:** what it achieved
+> **Tools:** gPROMS, MATLAB, Simulink · **Result:** two peer-reviewed publications
 
-Two or three sentences about the problem and your approach.
+A rigorous dynamic model of an industrial packed extraction column, with a control study built on top of it. It began as my master's thesis and continued as research work.
 
-[Code](https://github.com/{{ site.social.github }}/project-one) · [Demo](#)
+### PFD generator tool
 
-### Project Two
-<img class="project-thumb" src="{{ '/assets/img/project-placeholder.svg' | relative_url }}" alt="Project Two">
+> **Tools:** draw.io · **Result:** shared with colleagues through internal training
 
-> **Stack:** … · **Result:** …
+A tool that generates process flow diagrams, plus internal training sessions I lead so colleagues can use it.
 
-Short description.
+### Root cause analysis from plant data
 
-[Code](https://github.com/{{ site.social.github }}/project-two)
+> **Tools:** Python · **Result:** clear dynamic plots from raw plant data
+
+Turning raw plant data into plots that show how a disturbance developed, so the root cause can be found.
 
 [View all projects →]({{ '/projects.html' | relative_url }})
 
@@ -46,14 +47,16 @@ Short description.
 
 ## Experience
 
-### Job Title — Company (20XX – present)
-- What you did and the impact
-- Another achievement
+### Process Engineer, Air Liquide (2024 – present)
+Dynamic simulation, process modeling for CO₂-to-methanol, P&ID design and internal tooling.
 
-### Job Title — Company (20XX – 20XX)
-- What you did and the impact
+### Business Analyst / Project Manager, Galp (2022 – 2024)
+Technology and digitalization projects in oil and gas, SAP S/4HANA rollouts and process optimization.
 
-**Education:** Degree, University (Year)
+### Research Engineer, CERENA (2022)
+Modeling and control of a biodiesel washing column.
+
+**Education:** Integrated Master in Chemical Engineering, Instituto Superior Técnico (2021)
 
 [More about me →]({{ '/about.html' | relative_url }})
 
@@ -62,5 +65,5 @@ Short description.
 ## Contact
 
 - Email: [{{ site.social.email }}](mailto:{{ site.social.email }})
-- LinkedIn: [{{ site.social.linkedin }}](https://www.linkedin.com/in/{{ site.social.linkedin }})
+- LinkedIn: [linkedin.com/in/{{ site.social.linkedin }}](https://www.linkedin.com/in/{{ site.social.linkedin }})
 - GitHub: [{{ site.social.github }}](https://github.com/{{ site.social.github }})

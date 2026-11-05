@@ -1,0 +1,17 @@
+---
+layout: null
+---
+# {{ site.title }}
+
+> {{ site.description | strip_newlines }}
+
+## Pages
+- [Home]({{ "/" | absolute_url }}): overview, featured projects, experience
+- [Projects]({{ "/projects.html" | absolute_url }}): full project list
+- [Blog]({{ "/blog.html" | absolute_url }}): articles
+- [About]({{ "/about.html" | absolute_url }}): bio, skills, experience
+- [Contact]({{ "/contact.html" | absolute_url }})
+
+## Posts
+{% for post in site.posts %}- [{{ post.title }}]({{ post.url | absolute_url }})
+{% endfor %}

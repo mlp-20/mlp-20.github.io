@@ -1,0 +1,2 @@
+Put your profile photo here as assets/img/profile.jpg (square, ~400x400), and delete this file.
+Also drop your CV as assets/cv.pdf.

@@ -1,0 +1,39 @@
+/* Extra styles on top of the Minimal theme */
+.profile-pic {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.site-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px;
+}
+.site-nav li { margin: 4px 0; }
+.site-nav a.active { font-weight: bold; color: #222; }
+
+.cta-block { margin: 20px 0; }
+.cta-block a {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 0 8px 8px 0;
+  border: 1px solid #267CB9;
+  border-radius: 6px;
+  text-decoration: none;
+}
+.cta-block a.primary { background: #267CB9; color: #fff; }
+
+.project-thumb {
+  width: 100%;
+  max-width: 480px;
+  border-radius: 6px;
+  border: 1px solid #e5e5e5;
+}
+
+.post-meta { color: #777; font-size: 0.9em; }
+
+@media print, screen and (max-width: 720px) {
+  .site-nav ul li { display: inline-block; margin-right: 10px; }
+}

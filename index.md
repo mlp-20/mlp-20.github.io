@@ -56,7 +56,7 @@ Technology and digitalization projects in oil and gas, SAP S/4HANA rollouts and 
 ### Research Engineer, CERENA (2022)
 Modeling and control of a biodiesel washing column.
 
-**Education:** Integrated Master in Chemical Engineering, Instituto Superior Técnico (2021)
+**Education:** MSc (2021) and BSc (2019) in Chemical Engineering, Instituto Superior Técnico
 
 [More about me →]({{ '/about.html' | relative_url }})
 

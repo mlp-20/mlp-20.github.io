@@ -39,18 +39,18 @@ Outside work I train for endurance sports like running and hiking, and I like co
 - Calibrated an industrial quality assurance scanning machine
 
 ## Education
-- **Integrated Master in Chemical Engineering**, Instituto Superior Técnico, Lisbon (2015 – 2021). Thesis: dynamic simulation of a biodiesel washing column. Electives in process control, industrial chemistry and process optimization.
+- **MSc in Chemical Engineering**, Instituto Superior Técnico, Lisbon (Nov 2021). Thesis: dynamic simulation of a biodiesel washing column. Electives in advanced process control, industrial chemistry and process optimization.
+- **BSc in Chemical Engineering**, Instituto Superior Técnico, Lisbon (Jul 2019).
 - **International Summer School**, Beihang University, Beijing (2018). Thermodynamics, refrigeration technology and Chinese culture.
 
 ## Skills
 - **Process engineering:** process simulation (Aspen HYSYS Dynamics, Aspen Plus, gPROMS), scientific modeling, PFD, P&ID and plant layout, technical drawing software
 - **Software and data:** Python, MATLAB and Simulink
 - **Business tools:** SAP S/4HANA, SAP Signavio, Power BI, Microsoft Office
-- **Languages:** Portuguese (native), English (C1), Spanish (B1), German (A1), French (A1)
+- **Languages:** Portuguese (native), English (C1), Spanish (B1), French (A1, currently studying)
 
 ## Certifications
 - Machine Learning, Modeling, and Simulation: Engineering Problem-Solving in the Age of AI, MIT xPro (Dec 2025)
-- MATLAB Onramp, MathWorks (Oct 2025)
 - Power BI Strategy @ Galp, Level III Advanced, Singularity Digital Enterprise (Jul 2022)
 
 ## Publications

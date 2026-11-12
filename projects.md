@@ -6,7 +6,7 @@ permalink: /projects.html
 
 # Projects
 
-## Biodiesel washing column: modeling and control
+## Biodiesel washing column: modelling and control
 
 > **Tools:** gPROMS ModelBuilder, MATLAB, Simulink
 
@@ -54,4 +54,4 @@ An automated Power BI and Excel tool that internally assists the classification 
 ## Process analysis and a drilling control room
 > **Tools:** SAP Signavio
 
-At Galp I mapped and analyzed processes end to end to find and remove inefficiencies, and managed the set-up of a drilling control room.
+At Galp I mapped and analysed processes end to end to find and remove inefficiencies, and managed the set-up of a drilling control room.

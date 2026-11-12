@@ -7,7 +7,7 @@ layout: null
 
 ## Pages
 - [Home]({{ "/" | absolute_url }}): overview, featured work, experience
-- [Projects]({{ "/projects.html" | absolute_url }}): simulation, modeling and tooling projects
+- [Projects]({{ "/projects.html" | absolute_url }}): simulation, modelling and tooling projects
 - [About]({{ "/about.html" | absolute_url }}): bio, experience, skills, publications
 - [Contact]({{ "/contact.html" | absolute_url }})
 

@@ -8,8 +8,8 @@ title: Home
 *Simulation, process design and digital tools for the chemical industry.*
 
 - **Dynamic simulation** at Air Liquide with Aspen HYSYS Dynamics and Aspen Plus
-- **Digital delivery** at Galp: SAP S/4HANA and digitalization projects across Portugal, Spain and Cabo Verde
-- **Research** published in two peer-reviewed papers on biodiesel column modeling and control
+- **Digital delivery** at Galp: SAP S/4HANA and digitalisation projects across Portugal, Spain and Cabo Verde
+- **Research** published in two peer-reviewed papers on biodiesel column modelling and control
 
 <div class="cta-block">
   {% assign cv = site.static_files | where: "path", "/assets/cv.pdf" %}
@@ -23,7 +23,7 @@ I'm a chemical engineer with four years of experience across process engineering
 
 ## Featured Work
 
-### Biodiesel washing column: modeling and control
+### Biodiesel washing column: modelling and control
 
 > **Tools:** gPROMS, MATLAB, Simulink · **Result:** two peer-reviewed publications
 
@@ -48,13 +48,13 @@ Turning raw plant data into plots that show how a disturbance developed, so the 
 ## Experience
 
 ### Process Engineer, Air Liquide (2024 – present)
-Dynamic simulation, process modeling for CO₂-to-methanol, P&ID design and internal tooling.
+Dynamic simulation, process modelling for CO₂-to-methanol, P&ID design and internal tooling.
 
 ### Business Analyst / Project Manager, Galp (2022 – 2024)
-Technology and digitalization projects in oil and gas, SAP S/4HANA rollouts and process optimization.
+Technology and digitalisation projects in oil and gas, SAP S/4HANA rollouts and process optimisation.
 
 ### Research Engineer, CERENA (2022)
-Modeling and control of a biodiesel washing column.
+Modelling and control of a biodiesel washing column.
 
 **Education:** MSc (2021) and BSc (2019) in Chemical Engineering, Instituto Superior Técnico
 

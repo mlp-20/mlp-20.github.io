@@ -22,8 +22,8 @@ Outside work I train for endurance sports like running and hiking, and I like co
 
 ### Business Analyst / Project Manager, Galp
 *Jul 2023 – Nov 2024 · Lisbon, Portugal*
-- Managed technology and digitalization projects in oil and gas extraction and refining, including setting up a drilling control room
-- Ran end-to-end process analysis and optimization with SAP Signavio
+- Managed technology and digitalisation projects in oil and gas extraction and refining, including setting up a drilling control room
+- Ran end-to-end process analysis and optimisation with SAP Signavio
 
 ### Project Manager, Galp
 *May 2022 – Jun 2023 · Lisbon, Portugal*
@@ -32,19 +32,19 @@ Outside work I train for endurance sports like running and hiking, and I like co
 
 ### Research Engineer, CERENA
 *Feb 2022 – May 2022 · Lisbon, Portugal*
-- Modeled and controlled a biodiesel washing column with gPROMS ModelBuilder, MATLAB and Simulink
+- Modelled and controlled a biodiesel washing column with gPROMS ModelBuilder, MATLAB and Simulink
 
 ### Production and Manufacturing Intern, The Navigator Company
 *Jul – Aug 2019 · Vila Velha de Ródão, Portugal*
 - Calibrated an industrial quality assurance scanning machine
 
 ## Education
-- **MSc in Chemical Engineering**, Instituto Superior Técnico, Lisbon (Nov 2021). Thesis: dynamic simulation of a biodiesel washing column. Electives in advanced process control, industrial chemistry and process optimization.
+- **MSc in Chemical Engineering**, Instituto Superior Técnico, Lisbon (Nov 2021). Thesis: dynamic simulation of a biodiesel washing column. Electives in advanced process control, industrial chemistry and process optimisation.
 - **BSc in Chemical Engineering**, Instituto Superior Técnico, Lisbon (Jul 2019).
 - **International Summer School**, Beihang University, Beijing (2018). Thermodynamics, refrigeration technology and Chinese culture.
 
 ## Skills
-- **Process engineering:** process simulation (Aspen HYSYS Dynamics, Aspen Plus, gPROMS), scientific modeling, PFD, P&ID and plant layout, technical drawing software
+- **Process engineering:** process simulation (Aspen HYSYS Dynamics, Aspen Plus, gPROMS), scientific modelling, PFD, P&ID and plant layout, technical drawing software
 - **Software and data:** Python, MATLAB and Simulink
 - **Business tools:** SAP S/4HANA, SAP Signavio, Power BI, Microsoft Office
 - **Languages:** Portuguese (native), English (C1), Spanish (B1), French (A1, currently studying)
